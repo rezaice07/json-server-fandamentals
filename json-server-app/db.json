@@ -29,6 +29,12 @@
       "title": "Apple",
       "unitPrice": 180,
       "Sku": "1kg"
+    },
+    {
+      "id": 6,
+      "title": "Samsung J7 Prime",
+      "unitPrice": 30000,
+      "Sku": "S-2022"
     }
   ]
 }

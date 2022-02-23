@@ -20,3 +20,15 @@ Configuration:
 
     03. After completing above, go to browser and hit by 
         http://localhost:4000/products
+
+Supported Methods:
+    GET, POST, PUT, DELETE
+    EXAMPLE :
+    Url: http://localhost:4000/products
+    Method: POST
+    Body:{
+        "id": 6,
+        "title": "Samsung J7 Prime",
+        "unitPrice": 30000,
+        "Sku": "S-2022"
+    }
