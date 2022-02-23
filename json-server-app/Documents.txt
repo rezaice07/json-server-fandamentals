@@ -16,7 +16,7 @@ Configuration:
             "serve-json": "json-server --watch db.json --port 4000"
         }
 
-    02. npm run serve-json
+    02. npm run jserve
 
     03. After completing above, go to browser and hit by 
         http://localhost:4000/products
