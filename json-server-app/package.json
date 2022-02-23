@@ -1,0 +1,12 @@
+{
+  "name": "json-server-app",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "serve-json": "json-server --watch db.json --port 4000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

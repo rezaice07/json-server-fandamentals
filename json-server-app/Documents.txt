@@ -1,0 +1,22 @@
+
+
+Json Server
+----------------------------------
+
+Introduction:
+    Json server, that can be used to create a server.
+    A json data will be delivered when pick data from json server.
+
+Installation:
+    CLI: npm i json-server
+
+Configuration:
+    01. Add script in package.json file
+        "scripts": {
+            "serve-json": "json-server --watch db.json --port 4000"
+        }
+
+    02. npm run serve-json
+
+    03. After completing above, go to browser and hit by 
+        http://localhost:4000/products
