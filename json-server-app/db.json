@@ -1,4 +1,43 @@
 {
+  "news": [
+    {
+      "id": 1,
+      "title": "Ukraine declares state of emergency, summons citizens home from Russia",
+      "description": "Ukraine declared a state of emergency on Wednesday and told its citizens in Russia to flee, while Moscow began evacuating its Kyiv embassy in the latest ominous signs for Ukrainians who fear an all-out Russian military onslaught.      Shelling intensified at the line of contact in eastern Ukraine, where Russian President Vladimir Putin recognised the independence of two Moscow-backed rebel regions this week and has ordered the deployment of Russian troops as \"peacekeepers\". But there was still no clear indication of whether he plans to follow that up with a massed assault on his neighbour by tens of thousands of troops gathered near Ukraine's borders. The uncertainty has roiled financial markets but oil prices eased on Wednesday, global stocks broke a four-day slide and demand for safe-haven assets waned as Western leaders and Ukraine awaited Putin's next move.",
+      "category": "Europe"
+    },
+    {
+      "id": 2,
+      "title": "Afif-Mehidey’s record partnership gives Tigers winning start against Afghans",
+      "description": "Afif Hossain and Mehidy Hasan Miraz built a 174-run partnership to help Bangladesh beat Afghanistan by four wickets in the first One Day International (ODI) match in Chattogram on Wednesday. Afif Hossain scored 93 off 115 and Mehidy Hasan Miraz contributed 81 off 120 as Bangladesh scored 219 with six balls to spare to beat the Afghanistan.The is the highest seventh wicket partnership in ODIs for Bangladesh, and also the second highest seventh wicket partnership ever.AFP Adds: Afghanistan left-arm pace bowler Fazalhaq Farooqi's opening-spell burst reduced the hosts to 18-4 inside five overs.Spinners Mujeeb Ur Rahman and Rashid Khan took one wicket apiece to leave Bangladesh struggling at 45-6 before Afif and Mehidy turned the tide.",
+      "category": "Cricket"
+    },
+    {
+      "id": 3,
+      "title": "Arnold Schwarzenegger to present Slap Fighting Championship",
+      "description": "Veteran actor and former bodybuilder Arnold Schwarzenegger is all set to come up with the Slap Fighting Championship.As per Variety, Arnold has teamed with YouTube creator Logan Paul to launch the contest next month—\"featuring a roster of beefy men slapping the crap out each other.\"The match will be held on March 5 in Columbus, Ohio, and will be live-streamed for free on Logan Paul’s YouTube and Facebook channels. Sharing the update, Arnold took to Twitter and wrote, \"Prepare to watch some brutal slaps March 5th with me and @loganpaul live and free on Logan’s YouTube.\" The ‘Terminator’ star announced his partnership with Logan for the slap fighting event on one of the episodes of ‘Impaulsive’ show.",
+      "category": "Entertainment"
+    },
+    {
+      "id": 4,
+      "title": "Three sisters wearing shroud go on hunger to recover ancestral property",
+      "unidescriptiontPrice": "Three girls wearing shroud have began a hunger strike in front of the deputy commissioner's office in Barguna on Wednesday in a bid to recover their ancestral home and land that their uncle grabbed from them following the death of their parents.      They are Rubi Akter, 27, Jesmin Akter, 18 and Mst Rozina, 16,  daughters of late Abdul Rashid from Golaghata village of Barguna’s Bamna upazila.      They vowed to continue their hunger strike until they get back their ancestral property.      Elder sister Rubi Akter said she along with her two younger sisters went to Chattogram after their parents died. She took a job at an apparel factory and helped her two sisters in study.       When they returned home in 2019, they found other people occupied their ancestral property in nexus with the influential persons. At that time, they were also ousted from their home. Since then, they have been living in inhuman condition, she added.      Rubi Akter said, \"My younger sisters studied living at a house of distant relative. I came home three years ago and found my uncles have grabbed all properties of our father in nexus with local influential persons.\"      \"Our uncles told us they bought our land throng auction. But we went to the land office of Bamna upazil and learned our land was not auctioned,\" she added.",
+      "category": "Local News"
+    },
+    {
+      "id": 5,
+      "title": "'Bangladesh Press Photo Contest 2022' underway at Drik Gallery",
+      "description": "The exhibition of Bangladesh Press Photo Contest 2022, organized by Drik Picture Library, is going on at Drik Gallery in the capital, reports UNB.      The exhibition, inaugurated on Friday, will be open to the public every day from 3.00pm to 8.00pm until 2 March.      It is a historic moment for Bangladeshi photography as Drik has organised a contest for Bangladeshi press photographers.      One of last year's shortlisted photographs was awarded ‘Picture of the Year’ and also awarded as winners in the three categories: politics, public interest journalism, arts culture and sports.",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 6,
+      "title": "Monash College Diploma orientation held",
+      "description": "Universal College Bangladesh (UCB), the partner of Monash College, Australia in Bangladesh, organised the Monash College Diploma (MCD) Orientation programme recently, said a press release.      Students enrolling for the Monash College Diploma (MCD) participated in the event, which was held on 17 February virtually.      Sandeep Ananthanarayanan, chief executive officer, Universal College Bangladesh, professor Sarwar Uddin Ahmed, dean of Academic Affairs, UCB; Amid Hossain Chowdhury, head of marketing, Jamal Uddin Jamy, head of enrolment, Shafik Waes, manager (academic administration) and other faculty members were present at the event.       At the event, students were briefed on the guidelines related to MCD program other details related to academic integrity and misconduct and essential academic tools.",
+      "category": "Youth"
+    }
+  ],
+
   "products": [
     {
       "id": 1,
